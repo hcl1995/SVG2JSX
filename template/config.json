@@ -1,0 +1,11 @@
+{
+    "port": 9000,
+    "source": "",
+    "target": "",
+    "options": {
+        "tint": false,
+        "demo": true,
+        "forceReplace": false,
+        "isDirectProcessSVG": false
+    }
+}
